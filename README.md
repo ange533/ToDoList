@@ -2,6 +2,9 @@
 
 Ce projet est une application web de gestion de tâches, développée en React JS, dans le cadre d’un projet académique. Il permet aux utilisateurs de créer, modifier, suivre et supprimer des tâches, avec une interface responsive et intuitive.
 
+## Cahier de charge
+Il se trouve dans le fichier ##CAHIER DES CHARGES GLO_3_GROUPE_1.pdf
+
 ##  Objectifs du projet
 
 - Démontrer la maîtrise de React JS
