@@ -57,7 +57,6 @@ src/
 │
 ├── components/         # Composants réutilisables
 ├── pages/              # Pages principales (liste, détails, formulaire)
-├── services/           # Appels API via Axios
 ├── context/            # Gestion des états globaux
 ├── hooks/              # Hooks personnalisés
 └── App.jsx             # Entrée principale
