@@ -15,15 +15,12 @@ Ce projet est une application web de gestion de tâches, développée en React J
 - 📊 Suivi de l’état d’avancement : à faire / en cours / terminée
 - 🔍 Recherche, tri et filtres avancés
 - 📱 Interface responsive (mobile-first)
-- 🛠️ Intégration API REST (simulée avec JSON Server)
 
 ##  Technologies utilisées
 
 - React JS 18.x
 - React Router DOM
 - Tailwind CSS + Material-UI
-- Axios (requêtes HTTP)
-- JSON Server (API simulée)
 - Git / GitHub / Vite
 
 ##  Installation et démarrage
@@ -37,22 +34,21 @@ Ce projet est une application web de gestion de tâches, développée en React J
 -  Git
 
 ### 1. Cloner le dépôt
-
+```bash
 git clone https://github.com/ange533/ToDoList.git
 cd ToDoList
-
+```
 ### 2. Installer les dépendances
-
+```bash
 npm install
-
+```
 
 ### 3. Lancer l'application
-
+```bash
 npm run dev
-
+```
 Par défaut, l’application s’ouvre sur [http://localhost:5173](http://localhost:5173)
 
-> Assurez-vous que l’URL de l’API est bien configurée dans les variables d’environnement (voir `.env` ou fichier de configuration).
 
 ## 📂 Structure du projet
 
@@ -69,7 +65,7 @@ src/
 
 ## 📅 Planning du projet
 
-- **J+1** : Maquettes et specs finalisées  
+- **J+1** : Maquettes et specificationss finalisées  
 - **J+2** : Version CRUD fonctionnelle  
 - **J+4** : Application complète avec filtres, recherche, etc.
 
